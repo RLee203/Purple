@@ -1,0 +1,6 @@
+.pio/
+build/
+*.bin
+*.elf
+*.map
+!releases/*.bin
