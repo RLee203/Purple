@@ -28,7 +28,7 @@ Purple is a dual-mode Cardputer ADV firmware built for Red Team and Blue Team fi
 
 Merged flash image:
 
-- `releases/Purple-2026-05-21_repo_ready-merged.bin`
+- `releases/Purple-2026-05-21-final-release-merged.bin`
 
 PlatformIO upload:
 
